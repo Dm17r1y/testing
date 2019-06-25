@@ -5,6 +5,7 @@ namespace Samples.TestDataBuilder
 	[TestFixture]
 	public class TestDataBuilder_Sample_Tests
 	{
+		
 		[Test]
 		public void WorksWithObjectMother()
 		{
